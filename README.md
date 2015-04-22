@@ -6,7 +6,7 @@ Extend syntax for the native fenced code block.
 
 
    ```javascript
-
+   var foo = "bar";
    ```
 
 
