@@ -26,3 +26,4 @@ var foo = "bar";
 ```` `
 ```
 
+**Note: Only JavaScript, CSS and HTML code can be insert to a post.**
