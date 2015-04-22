@@ -10,8 +10,19 @@ var foo = "bar";
 `` `
 ```
 
+## Highlight and Insert Code
 
-## Highlight Insert Code To The Post
+```
+````javascript
+var foo = "bar";
+``` `
+```
 
+## Just Insert Code
 
+```
+`````javascript
+var foo = "bar";
+```` `
+```
 
