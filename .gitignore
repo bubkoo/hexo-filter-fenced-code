@@ -1,9 +1,5 @@
-.vagrant
-/cookbooks
-
-# Bundler
-bin/*
-.bundle/*
-
-.kitchen/
-.kitchen.local.yml
+.idea
+.DS_Store
+node_modules
+npm-debug.log
+tmp

@@ -1,0 +1,27 @@
+{
+  "name": "hexo-filter-fenced-code",
+  "version": "0.0.1",
+  "description": "Extend syntax for the native fenced code block. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bubkoo/hexo-filter-fenced-code.git"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "code",
+    "block",
+    "extend",
+    "syntax"
+  ],
+  "author": "bubkoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bubkoo/hexo-filter-fenced-code/issues"
+  },
+  "homepage": "https://github.com/bubkoo/hexo-filter-fenced-code"
+}
