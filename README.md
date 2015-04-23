@@ -9,11 +9,11 @@ Feature:
 
 ### The Native Fenced Code Block
 
-```
+~~~
 ```javascript
 var foo = "bar";
-``\`
 ```
+~~~
 
 ### Highlight and Insert Code
 
