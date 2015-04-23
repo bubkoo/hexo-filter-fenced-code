@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-fenced-code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extend syntax for the native fenced code block. ",
   "main": "index.js",
   "scripts": {

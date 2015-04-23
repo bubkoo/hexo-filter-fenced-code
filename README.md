@@ -12,7 +12,7 @@ Feature:
 ```
 ```javascript
 var foo = "bar";
-`` `
+``\`
 ```
 
 ### Highlight and Insert Code
