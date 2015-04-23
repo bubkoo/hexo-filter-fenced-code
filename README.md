@@ -60,12 +60,13 @@ Use the syntax sugar as follow:
 
 - block
 
-      ```tagname [option1] [option2] ... 
-      content
-      ```
+        ```tagname [option1] [option2] ... 
+        content
+        ```
+
 
 - inline
 
-      ```tagname [option1] [option2] ...
-      ```
+        ```tagname [option1] [option2] ...
+        ```
 
