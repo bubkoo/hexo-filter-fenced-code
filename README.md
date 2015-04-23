@@ -9,19 +9,16 @@ Feature:
 
 ### The Native Fenced Code Block
 
-~~~
-```javascript
-var foo = "bar";
-```
-~~~
+    ```javascript
+    var foo = "bar";
+    ```
 
 ### Highlight and Insert Code
 
-```
-````javascript
-var foo = "bar";
-``` `
-```
+
+    ````javascript
+    var foo = "bar";
+    ````
 
 The code will be inserted as a `script` block:
 
@@ -33,11 +30,10 @@ var foo = "bar";
 
 ### Just Insert Code
 
-```
-`````javascript
-var foo = "bar";
-```` `
-```
+
+    `````javascript
+    var foo = "bar";
+    `````
 
 
 **Note: Only JavaScript, CSS and HTML code can be inserted into a post. This feature is handily for building a quick demo.**
