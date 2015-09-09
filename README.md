@@ -1,5 +1,12 @@
 # hexo-filter-fenced-code
 
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-fenced-code/blob/master/LICENSE)
+
+[![npm:](https://img.shields.io/npm/v/json-from-template.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
+[![downloads:?](https://img.shields.io/npm/dm/json-from-template.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
+[![dependencies:?](https://img.shields.io/david/bubkoo/json-from-template.svg?style=flat-square)](https://david-dm.org/bubkoo/hexo-filter-fenced-code)
+
+
 Feature:
 
 - Extend syntax for the native fenced code block.
@@ -15,10 +22,18 @@ Feature:
 
 ### Highlight and Insert Code
 
+    ```javascript+
+    var foo = "bar";
+    ```
+
+or
 
     ````javascript
     var foo = "bar";
     ````
+
+
+
 
 The code will be inserted as a `script` block:
 
@@ -30,6 +45,11 @@ var foo = "bar";
 
 ### Just Insert Code
 
+    ```javascript-
+    var foo = "bar";
+    ```
+
+or
 
     `````javascript
     var foo = "bar";
