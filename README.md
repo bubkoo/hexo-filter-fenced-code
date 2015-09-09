@@ -2,9 +2,9 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-fenced-code/blob/master/LICENSE)
 
-[![npm:](https://img.shields.io/npm/v/json-from-template.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
-[![downloads:?](https://img.shields.io/npm/dm/json-from-template.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
-[![dependencies:?](https://img.shields.io/david/bubkoo/json-from-template.svg?style=flat-square)](https://david-dm.org/bubkoo/hexo-filter-fenced-code)
+[![npm:](https://img.shields.io/npm/v/hexo-filter-fenced-code.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
+[![downloads:?](https://img.shields.io/npm/dm/hexo-filter-fenced-code.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
+[![dependencies:?](https://img.shields.io/david/bubkoo/hexo-filter-fenced-code.svg?style=flat-square)](https://david-dm.org/bubkoo/hexo-filter-fenced-code)
 
 
 Feature:
