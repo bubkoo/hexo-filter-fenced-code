@@ -1,11 +1,9 @@
 # hexo-filter-fenced-code
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-fenced-code/blob/master/LICENSE)
-
 [![npm:](https://img.shields.io/npm/v/hexo-filter-fenced-code.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
-[![downloads:?](https://img.shields.io/npm/dm/hexo-filter-fenced-code.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
-[![dependencies:?](https://img.shields.io/david/bubkoo/hexo-filter-fenced-code.svg?style=flat-square)](https://david-dm.org/bubkoo/hexo-filter-fenced-code)
 
+> Extend syntax for the native fenced code block.
 
 Feature:
 
@@ -58,6 +56,7 @@ or
 
 **Note: Only JavaScript, CSS and HTML code can be inserted into a post. This feature is handily for building a quick demo.**
 
+
 ## Tag Plugins' Syntax Sugar
 
 The native tag plugin looks like this:
@@ -90,3 +89,8 @@ Use the syntax sugar as follow:
         ```tagname [option1] [option2] ...
         ```
 
+## Contributing
+
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/bubkoo/hexo-filter-fenced-code/issues/new).
