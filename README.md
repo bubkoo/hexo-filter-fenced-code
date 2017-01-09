@@ -1,7 +1,9 @@
 # hexo-filter-fenced-code
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-fenced-code/blob/master/LICENSE)
+
 [![npm:](https://img.shields.io/npm/v/hexo-filter-fenced-code.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
+[![Package Quality](http://npm.packagequality.com/shield/hexo-toc.svg)](http://packagequality.com/#?package=hexo-filter-fenced-code)
 
 > Extend syntax for the native fenced code block.
 
@@ -90,6 +92,7 @@ Use the syntax sugar as follow:
         ```
 
 ## Related
+
     - [hexo-toc](https://github.com/bubkoo/hexo-toc) Insert a markdown TOC before posts be rendered. 
    - [hexo-filter-flowchart](https://github.com/bubkoo/hexo-filter-flowchart) Generate flowchart diagrams for Hexo. 
    - [hexo-filter-sequence](https://github.com/bubkoo/hexo-filter-sequence) Generate UML sequence diagrams for Hexo.
