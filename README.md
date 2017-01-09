@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-fenced-code/blob/master/LICENSE)
 
 [![npm:](https://img.shields.io/npm/v/hexo-filter-fenced-code.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-fenced-code)
-[![Package Quality](http://npm.packagequality.com/shield/hexo-toc.svg)](http://packagequality.com/#?package=hexo-filter-fenced-code)
+[![Package Quality](http://npm.packagequality.com/shield/hexo-filter-fenced-code.svg)](http://packagequality.com/#?package=hexo-filter-fenced-code)
 
 > Extend syntax for the native fenced code block.
 
